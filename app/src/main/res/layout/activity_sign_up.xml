@@ -51,7 +51,7 @@
         />
 
     <EditText
-        android:id="@+id/editTextTextPersonName2"
+        android:id="@+id/email"
         android:layout_width="300dp"
         android:layout_marginLeft="45dp"
         android:layout_height="50dp"
@@ -75,7 +75,7 @@
         />
 
     <EditText
-        android:id="@+id/New"
+        android:id="@+id/passs"
         android:layout_width="300dp"
         android:layout_height="50dp"
         android:layout_marginLeft="45dp"
@@ -99,7 +99,7 @@
         />
 
     <EditText
-        android:id="@+id/editTextTextPersonName"
+        android:id="@+id/passsw"
         android:layout_width="300dp"
         android:layout_height="50dp"
         android:layout_marginLeft="45dp"
@@ -113,7 +113,7 @@
         android:textSize="18sp" />
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/button8"
+        android:id="@+id/signup"
         style="@android:style/Widget.Button"
         android:layout_width="250dp"
         android:layout_gravity="center"
